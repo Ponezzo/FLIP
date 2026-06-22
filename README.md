@@ -2,12 +2,21 @@
 
 ## 📌 목차
 
-1. [프로젝트 소개](#-프로젝트-소개)
-2. [주요 기능](#-주요-기능)
-3. [기술 아키텍처](#-기술-아키텍처처)
-4. [기술 스택](#-주요-기술)
-5. [산출물](#-산출물)
-6. [팀 소개](#-팀-소개)
+1. [시연 영상](#-시연-영상)
+2. [프로젝트 소개](#-프로젝트-소개)
+3. [주요 기능](#-주요-기능)
+4. [기술 아키텍처](#-기술-아키텍처처)
+5. [기술 스택](#-주요-기술)
+6. [산출물](#-산출물)
+7. [팀 소개](#-팀-소개)
+
+## 🎬 시연 영상
+
+<p align="center">
+  <video src="https://github.com/Ponezzo/FLIP/releases/download/demo/demo.mp4" controls playsinline width="900">
+    브라우저가 video 태그를 지원하지 않습니다. <a href="https://github.com/Ponezzo/FLIP/releases/tag/demo">Release에서 시청</a>
+  </video>
+</p>
 
 ## 🚀 프로젝트 소개
 
