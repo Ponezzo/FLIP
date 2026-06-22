@@ -13,11 +13,7 @@
 ## 🎬 시연 영상
 
 <p align="center">
-  <a href="https://github.com/Ponezzo/FLIP/releases/download/demo/demo.mp4">
-    <img src=".github/assets/demo.gif" alt="FLIP 시연 영상 미리보기" width="900">
-  </a>
-  <br>
-  <sub><a href="https://github.com/Ponezzo/FLIP/releases/download/demo/demo.mp4">▶ 전체 영상 재생 (MP4)</a> · <a href="https://github.com/Ponezzo/FLIP/releases/tag/demo">Release</a></sub>
+  <video src="https://github.com/user-attachments/assets/84a8e443-d110-4837-9920-f2aa25b58fdf" controls playsinline width="900"></video>
 </p>
 
 ## 🚀 프로젝트 소개
