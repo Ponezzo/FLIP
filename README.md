@@ -13,7 +13,7 @@
 ## 🎬 홍보 영상
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/84a8e443-d110-4837-9920-f2aa25b58fdf" controls playsinline width="900"></video>
+  <video src="https://github.com/user-attachments/assets/2be0dba4-cf71-4dde-9995-1afc6f4b814b" controls playsinline width="900"></video>
 </p>
 
 ## 🚀 프로젝트 소개
